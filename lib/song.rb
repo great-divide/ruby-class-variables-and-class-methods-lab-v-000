@@ -57,8 +57,8 @@ class Song
 
 end
 
-Song.new("Rage", "Joe", "reggae")
-Song.new("Sad", "Jeff", "reggae")
-Song.new("Blue", "Bob", "blues")
-Song.new("Green", "Tim", "blues")
-Song.genre_count
+# Song.new("Rage", "Joe", "reggae")
+# Song.new("Sad", "Jeff", "reggae")
+# Song.new("Blue", "Bob", "blues")
+# Song.new("Green", "Tim", "blues")
+# Song.genre_count
