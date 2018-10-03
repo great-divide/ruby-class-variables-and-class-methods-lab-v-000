@@ -51,8 +51,8 @@ class Song
         elsif hash.key?(genre)
         hash[genre] += 1
       end
-      
     end
+    hash
   end
 
 end
